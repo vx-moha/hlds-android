@@ -1,3 +1,3 @@
-# xash3d-amxx
+# Xash3D-Amxx
 
 # Link In Releases
