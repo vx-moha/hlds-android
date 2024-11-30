@@ -1,3 +1,3 @@
-# Xash3D-Amxx
+# Xash3D Both
 
-# Link In Releases
+- (Check Here For News!)(https://github.com/vx-moha/xash3d-amxx/releases)
