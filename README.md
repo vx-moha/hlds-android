@@ -1,3 +1,5 @@
-# Xash3D Both
+# Xash3D Amxx
 
-- [Check Here For News!](https://github.com/vx-moha/xash3d-amxx/releases)
+![inq5erdiagram](https://github.com/FWGS/xash3d-fwgs/raw/master/game_launch/icon-xash-material.png)
+
+![Check Here For News!](https://github.com/vx-moha/xash3d-amxx/releases)
