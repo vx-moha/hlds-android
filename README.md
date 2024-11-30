@@ -6,4 +6,4 @@
 
 `Xash3D Amxx Is a Android Dedicated Server With Horizon Emulator x86 For Counter-Strike (Old & New Engineered)`
 
-[- Check Here For News](https://github.com/vx-moha/xash3d-amxx/releases)
+# [Check Here For News](https://github.com/vx-moha/xash3d-amxx/releases)
