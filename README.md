@@ -1,6 +1,5 @@
 # What Is it ?
-`- HLDS You can run a server on Android by using emulators
-Also it support in Xash3D (0.21)`
+`- HLDS You can run a server on Android by using emulators`
 
 # For Example
 
